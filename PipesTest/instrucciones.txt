@@ -1,0 +1,1 @@
+Carpeta de prueba donde se hacen conexiones básicas de pipes
