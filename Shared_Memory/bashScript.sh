@@ -1,2 +1,2 @@
 cd bin
-./productor
+./main

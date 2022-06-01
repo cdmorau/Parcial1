@@ -13,7 +13,7 @@ static int get_shm(char *filename, int size) {
 
     key = ftok(filename, 0);
 
-    if (key < 0) {
+    if (key == (key_t) -1) {
         perror("Error en Key");
         return -1;
     }
