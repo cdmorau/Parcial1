@@ -1,0 +1,4 @@
+cd bin
+./consumidor &
+./productor &
+
